@@ -1,4 +1,4 @@
-## this is an assignment based on Javascript functions
+## This is an assignment based on Javascript functions
 
 - Write a function that shows the current date and time. e.g: `printDate()`
 - Write a function that when given name it shows "Hello name", name should be any name that is passed to the function.
