@@ -5,6 +5,7 @@
 - general reading materials https://github.com/BongoHive/front-end-learning-resources
 - functions in Javascript https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 - Javascript reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+- W3schools on functions https://www.w3schools.com/js/js_functions.asp
 
 > Files to use are included in this repo and are indicated below in italics
 
