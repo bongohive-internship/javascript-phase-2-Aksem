@@ -7,7 +7,8 @@
 - Javascript reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - W3schools on functions https://www.w3schools.com/js/js_functions.asp
 
-> Files to use are included in this repo and are indicated below in italics
+> Files to use are included in this repo and are indicated below in italics, solve the following questions
+
 
 - [ ] Write a function that shows the current date and time in a file called *print-date.js*. e.g: `printDate()`. 
 
